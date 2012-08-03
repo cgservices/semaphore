@@ -8,6 +8,8 @@ s.synchronize do
   ...
 end
 
+See test/test_semaphore.rb for example
+
 == Contributing to semaphore
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
