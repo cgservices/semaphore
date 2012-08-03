@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'sempahore'
+  s.name        = 'semaphore'
   s.version     = '0.0.1'
   s.date        = '2012-08-02'
   s.summary     = "Counting semaphore implementation for Ruby 1.9.3"
