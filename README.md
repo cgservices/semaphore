@@ -1,6 +1,14 @@
 = semaphore
 Counting semaphore implementation for Ruby 1.9.3 based on semaphore.rb,v 1.2 2003/03/15 20:10:10 by Fukumoto.
 
+== Install
+In your Gemfile
+source 'rubygems.org'
+gem 'semaphore'
+
+Manual install
+gem install semaphore
+
 == Usage
 Semaphore.new(n) #create a n semaphore
 
