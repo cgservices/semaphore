@@ -7,8 +7,6 @@
 #
 
 class CountingSemaphore
-  attr_accessor :counter
-
   def initialize(initvalue = 0)
     @counter = initvalue
     @waiting_thread = nil
